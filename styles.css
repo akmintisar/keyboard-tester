@@ -5,6 +5,15 @@ h1 {
   padding: 0.7em;
 }
 
+.reset-button {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 .keyboard {
   text-align: center;
   font-size: 14px;
